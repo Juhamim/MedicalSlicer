@@ -1,4 +1,4 @@
-# Slicer AI Copilot
+# MedicalSlicer AI Copilot
 
 Natural-language AI assistant embedded in 3D Slicer for medical imaging workflow automation.
 

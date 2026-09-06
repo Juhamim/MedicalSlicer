@@ -73,6 +73,7 @@ Run tests inside Slicer:
 ```bash
 Slicer --python-script -m pytest tests/
 ```
+DEMO: https://youtu.be/-SVpAnDcjaw 
 
 ## Safety
 
